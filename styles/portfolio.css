@@ -23,6 +23,10 @@ h6 {
 h1 {
   font-size: 96px;
 }
+h2 {
+  font-size: 64px;
+  font-weight: bold;
+}
 
 p {
   font-weight: normal;
