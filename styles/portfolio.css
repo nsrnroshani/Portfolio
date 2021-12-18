@@ -87,3 +87,6 @@ p {
     font-size: 44px;
   }
 }
+.my-pic {
+  border-radius: 100%;
+}
