@@ -86,37 +86,38 @@ p {
   h2 {
     font-size: 44px;
   }
-  .about-section {
+  .content-container {
     padding: 0;
     text-align: center;
   }
 }
 .my-pic {
-  border-radius: 10px;
+  border-radius: 20px;
 }
-.about-section {
+.content-container {
   padding: 160px 20px;
 }
-.about-section-content {
+.content {
   margin: 30px;
 }
-.about-section h1 {
+.content-container h1 {
   font-size: 64px;
   font-weight: bold;
   line-height: 85px;
+  color: black;
 }
-.about-section h2 {
+.content-container h2 {
   font-family: var(--default-font-family);
   font-size: 18px;
   font-weight: bold;
   color: #272142;
 }
-.about-section p {
+.content-container p {
   font-family: var(--default-font-family);
   font-size: 16px;
   color: #272142;
   opacity: 70%;
 }
-.about-section-content {
+.content {
   margin: 20px;
 }
