@@ -29,6 +29,9 @@ h2 {
   font-size: 64px;
   font-weight: bold;
 }
+img {
+  height: auto;
+}
 
 p {
   font-weight: normal;
@@ -117,6 +120,15 @@ p {
   font-size: 16px;
   color: #272142;
   opacity: 70%;
+}
+.content-container h3 {
+  font-family: var(--default-font-family);
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 1.5;
+}
+.content p {
+  font-size: 14px;
 }
 .content {
   margin: 20px;
