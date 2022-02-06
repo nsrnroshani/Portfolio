@@ -66,7 +66,7 @@ nav a:hover {
 .hero {
   background: var(--primary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .hero p {
   font-size: 36px;
@@ -104,15 +104,16 @@ nav a:hover {
     padding: 0;
     text-align: center;
   }
-  .hero {
-    padding: 80px 20px;
-  }
+
   h1 {
     font-size: 50px;
     line-height: 1.5;
   }
   h2 {
     font-size: 44px;
+  }
+  h3 {
+    font-size: 26px;
   }
   .content-container {
     padding: 0;
@@ -126,7 +127,7 @@ nav a:hover {
   border-radius: 20px;
 }
 .content-container {
-  padding: 160px 20px;
+  padding: 60px 20px;
 }
 .content {
   margin: 30px;
@@ -196,7 +197,7 @@ footer .contact-box {
   border-radius: 10px;
   padding: 30px 60px;
 }
-footer h4 {
+footer h3 {
   font-size: 48px;
 }
 footer p {
